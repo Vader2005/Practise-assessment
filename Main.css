@@ -7,7 +7,7 @@ body {
 
 .navbar ul {
     list-style: none;
-    background: #bd1e43;
+    background: #fc7303;
     padding: 0;
     margin: 0;
     text-align: right;
@@ -33,3 +33,13 @@ body {
 .navbar a:hover {
     background: #353640;
 }
+
+#logo {
+    float: left; 
+}
+
+.navbar {
+    background: #fc7303;
+    height: 15vh;
+}
+
