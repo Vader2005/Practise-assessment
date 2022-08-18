@@ -47,3 +47,10 @@ body {
     width: 1520px;
 }
 
+#Motto {
+    position: absolute;
+    top: 350px;
+    color: white;
+    font-size: 90px;
+    font-family: 'Rubik Distressed', cursive;
+}
